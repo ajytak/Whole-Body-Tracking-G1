@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+WBC/__init__.py
+WBC/ui_extension_example.py
+WBC.egg-info/PKG-INFO
+WBC.egg-info/SOURCES.txt
+WBC.egg-info/dependency_links.txt
+WBC.egg-info/not-zip-safe
+WBC.egg-info/requires.txt
+WBC.egg-info/top_level.txt
